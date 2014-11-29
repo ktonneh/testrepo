@@ -1,3 +1,5 @@
 
 This is how to install the application.
 
+Committing to github is awsome stuff
+
